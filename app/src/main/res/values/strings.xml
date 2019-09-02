@@ -1,0 +1,13 @@
+<resources>
+    <string name="nameJim">John Jameson</string>
+    <string name="nameHugh">Hugh Jackman</string>
+    <string name="hughAddress">123 Some Dr. Australia, 4000</string>
+    <string name="JameAddress">5467 Neverland st Ireland, Ireland</string>
+    <string name="phoneTxt">phone number</string>
+    <string name="jamesPhone">987-654-3210</string>
+    <string name="hughPhone">012-345-6789</string>
+    <string name="addressTxt">address</string>
+    <string name="app_name">Celebrity Address Book</string>
+    <string name="hughName">Hugh Jackman</string>
+    <string name="jamesonName">John Jameson</string>
+</resources>
